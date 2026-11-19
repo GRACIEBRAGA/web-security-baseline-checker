@@ -1,0 +1,5 @@
+# Raw scan reports contain the real URL - keep them local
+report_*.md
+!report_before.md
+!report_after.md
+__pycache__/
